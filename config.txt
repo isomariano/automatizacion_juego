@@ -1,0 +1,2 @@
+clave=callefalsa1234
+ruta_registro=C:\Users\isold\Desktop\recompensa.txt
